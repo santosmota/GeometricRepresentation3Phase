@@ -24,3 +24,6 @@ Plots/animates a 3D space on the right with the two sets of three-phase voltages
 * CSV (tab-delimited) columns: time phaseA1 phaseB1 phaseC1 phaseA2 phaseB2 phaseC2 ...
 
 Other columns in the CSV files will be ignored.
+
+# How to record the animations
+After many trials, I gave up recording the animations with Python and went for a screen capture software. I used OBS Studio 25.0.8 (64 bit) https://obsproject.com/.
